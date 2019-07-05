@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmetset1</folder>
+	<filename>3.jpg</filename>
+	<path>/Users/Archit/Desktop/helmetset1/3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>5</ymin>
+			<xmax>387</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>
